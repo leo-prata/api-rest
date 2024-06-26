@@ -1,6 +1,6 @@
-# API REST com Node.js
+# REST API with Node.js and Express
 
-- Pensada para gerenciar alunos, com atributos do tipo "nome", "email", "idade", etc
-- Permite salvar imagens para cada aluno em específico
-- Sistema de login para um possível administrador gerenciar os alunos
-- Utiliza do Sequelize como ORM para interação com um database MariaDB
+- Designed to manage students, with attributes such as "name", "email", "age", etc.
+- Allows saving images for each specific student.
+- Login system for potential administrators to manage students.
+- Uses Sequelize as an ORM for interaction with a MariaDB database.
